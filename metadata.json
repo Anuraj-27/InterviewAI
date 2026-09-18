@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Mock Interview Platform",
+  "description": "Interactive mock interview platform tailored by role and experience level with structured AI evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
